@@ -32,7 +32,7 @@ key: page-about
 
 ## 我思故我在
 - [#任是无情](https://chloecamphor.github.io/archive.html?tag=任是无情)
-  - 在恋爱中挖掘自我的心路历程
+  - 情绪、思考、“我”的灵魂画像
 - [#坍塌的巴别塔](https://chloecamphor.github.io/archive.html?tag=坍塌的巴别塔)
   - 关于我的世界观、认识论，和一些或幽默或聪明的闲谈
 - [#脑科学践行实录](https://chloecamphor.github.io/archive.html?tag=脑科学践行实录)
