@@ -39,6 +39,8 @@ key: page-about
   - 科学、自然、平衡的生活方式
 
 ## 书记员档案
+- [#俄表杂谈](https://chloecamphor.github.io/archive.html?tag=俄表杂谈)
+  - 观俄罗斯政坛真人秀repo
 - [#灵魂奥德赛](https://chloecamphor.github.io/archive.html?tag=灵魂奥德赛)
   - 申博记录
 - [#芝士就是力量](https://chloecamphor.github.io/archive.html?tag=芝士就是力量)
