@@ -211,6 +211,7 @@ defaults:
       license: true
       aside:
         toc: true
+        toc_sticky: false
       show_edit_on_github: true
       show_subscribe: true
       pageview: true
@@ -223,3 +224,15 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+
+# Post wordcount display settings
+# Dependencies: https://github.com/willin/hexo-wordcount
+post_wordcount:
+  item_text: true
+  #字数统计
+  wordcount: true
+  #预览时间
+  min2read: true
+  #总字数，显示在页面底部
+  totalcount: true
+  separated_meta: true
