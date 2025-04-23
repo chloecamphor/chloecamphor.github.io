@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 
+title: 天地不仁，圣人无情
 tags: 俄表杂谈
 ---
 最近更新了几点认知，进行了一些价值观上的思考。
