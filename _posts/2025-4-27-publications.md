@@ -7,6 +7,6 @@ tags: 灵魂奥德赛
 ### 1. British accounting review
 2025/3/31 submit
 
-2024/4/9 with editor
+2025/4/9 with editor
 
-2024/4/22 decision in process
+2025/4/22 decision in process
