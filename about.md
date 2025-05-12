@@ -43,7 +43,7 @@ key: page-about
   - 观俄罗斯政坛真人秀repo
 - [#灵魂奥德赛](https://chloecamphor.github.io/archive.html?tag=灵魂奥德赛)
   - 申博记录
-- [#芝士就是力量](https://chloecamphor.github.io/archive.html?tag=芝士就是力量)
-  - 有趣的书影音
+- [#投资决策日记](https://chloecamphor.github.io/archive.html?tag=投资决策日记)
+  - 买卖基金的决策笔记
 
 
