@@ -12,3 +12,11 @@ tags: 灵魂奥德赛
 2025/4/22 decision in process
 
 2025/9 reject
+
+## 2. Journal of Management Science and Engineering
+2025/7 submit
+
+2025/11/10 reject
+
+## 3. Data Science and Management
+2025/12/15 submit
